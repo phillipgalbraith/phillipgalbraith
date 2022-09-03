@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m currently working on [Potluck-Planner](https://github.com/Potluck-planner-4-build-week)
-- 👀 I’m interested in Web Development, Bloom Tech, The Odin Project, and Game Development
-- 🌱 I'm always learning something new!  Up next: Vue.js, Ruby on Rails, C#
-- 🌏 I’m looking to collaborate on SQL, React, Redux, and Vue projects.
+- 👀 I’m interested in React, TypeScript, Web Development, Bloom Tech.
+- 🌱 I'm always learning something new!  Up next: Ruby on Rails.
+- 🌏 I’m looking to collaborate on TypeScriopt, React, and Ruby on Rails projects.
 - 📫 How to reach me: phillip.j.galbraith@gmail.com
 
 <h3 align="left">Connect with me:</h3>
