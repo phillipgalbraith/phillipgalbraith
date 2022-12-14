@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phillip Galbraith</h1>
-<h3 align="center">Frontend | Full-Stack | Product Manager| Trainer | Game Programmer</h3>
+<h3 align="center">Full-Stack</h3>
 
 
 - 🔭 I’m currently working on [Feast-Planner](https://feast-planner-2b2ea.firebaseapp.com/)
