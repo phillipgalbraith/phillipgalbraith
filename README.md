@@ -2,10 +2,10 @@
 <h3 align="center">Frontend | Full-Stack | Product Manager| Trainer | Game Programmer</h3>
 
 
-- 🔭 I’m currently working on [Potluck-Planner](https://github.com/Potluck-planner-4-build-week)
-- 👀 I’m interested in React, TypeScript, Web Development, Bloom Tech.
-- 🌱 I'm always learning something new!  Up next: Ruby on Rails.
-- 🌏 I’m looking to collaborate on TypeScriopt, React, and Ruby on Rails projects.
+- 🔭 I’m currently working on [Feast-Planner](https://feast-planner-2b2ea.firebaseapp.com/)
+- 👀 I’m interested in Full Stack Development, Design, Autism, and Spotify.
+- 🌱 I'm always learning something new!  Up Next: Ionic, Rails.
+- 🌏 I’m looking to collaborate on Full Stack projects.
 - 📫 How to reach me: phillip.j.galbraith@gmail.com
 
 <h3 align="left">Connect with me:</h3>
