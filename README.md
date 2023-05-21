@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on [Feast-Planner](https://feast-planner-2b2ea.firebaseapp.com/)
 - 👀 I’m interested in Full Stack Development, Design, Autism, and Spotify.
-- 🌱 I'm always learning something new!  Up Next: Ionic, Rails.
-- 🌏 I’m looking to collaborate on Full Stack projects.
+- 🌱 I'm always learning something new! Up Next: Javalin
+- 🌏 I’m about to koin some back-end projects
 - 📫 How to reach me: phillip.j.galbraith@gmail.com
 
 <h3 align="left">Connect with me:</h3>
